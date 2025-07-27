@@ -184,4 +184,4 @@ Built as a personal project.
 
 Abel K James  
 C++ Systems Developer | Performance Engineering  
-[GitHub](https://github.com/abelkjames) · [LinkedIn](https://linkedin.com/in/abelkjames)
+[GitHub](https://github.com/abelkalavadakken) · [LinkedIn]([https://linkedin.com/in/abelkjames](https://www.linkedin.com/in/abel-kalavadakken-b37b495b/)
