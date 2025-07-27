@@ -2,7 +2,7 @@
 
 A lightweight, modular C++17 infrastructure library for building high-performance trading systems and low-latency applications.
 
-Built during my deep dive into system-level performance and algorithmic trading infrastructure. `hft_core` offers fast, plug-and-play components that form the backbone of modern HFT engines — from thread pools to memory pools, event buses to high-resolution timers.
+Built during my deep dive into system-level performance and algorithmic trading infrastructure. `hft_core` offers fast, plug-and-play components that form the backbone of modern HFT engines, from thread pools to memory pools, event buses to high-resolution timers.
 
 ---
 
